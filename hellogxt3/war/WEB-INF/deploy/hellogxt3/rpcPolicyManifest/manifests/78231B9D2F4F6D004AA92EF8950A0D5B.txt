@@ -1,0 +1,2 @@
+serviceClass: com.my.hellogxt3.client.GreetingService
+path: C01849E66EE9794946928DB78B94D243.gwt.rpc
